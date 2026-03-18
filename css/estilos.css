@@ -1,3 +1,16 @@
 body{
     background-color: #FFFBF1;
 }
+
+h1{
+    color: #FF5733;
+    font-family: 'Verdana', sans-serif;
+    text-align: center;
+}
+
+p{
+    color: #333333;
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
